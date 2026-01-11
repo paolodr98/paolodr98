@@ -2,15 +2,15 @@
 
 > *I'm a physicist, mainly interested in **quantum computing**, and passionate about scientific computing, computational physics, artificial intelligence, and their interconnections. I have also experience in HPC and cloud workflows for accelerating scientific research.*
 
+📧 **Email:** paolodarold98@gmail.com
+
 ---
 
-## 🔗 Connect with Me
+## 🚀 What I Like to Do
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paolodr98)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-da-rold-739597233)
-
-
-📧 **Email:** paolodarold98@gmail.com
+- Explore and simulate **quantum computing** frameworks   
+- Build models for **ML/AI applications** in a scientific context
+- Implement simulations for **computational physics**  
 
 ---
 
@@ -51,12 +51,6 @@
 
 ---
 
-## 🚀 What I Like to Do
 
-- Explore and simulate **quantum computing** frameworks   
-- Build models for **ML/AI applications** in a scientific context
-- Implement simulations for **computational physics**  
-
----
 
 ⭐️ *Feel free to explore my repositories — suggestions and collaborations are welcome!*
