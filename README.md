@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Paolo Da Rold** from Italy 🇮🇹
+# 👋 Hi, I'm **Paolo Da Rold** 
 
 > *I'm a physicist, mainly interested in **quantum computing**, and passionate about scientific computing, computational physics, artificial intelligence, and their interconnections. I have also experience in HPC and cloud workflows for accelerating scientific research.*
 
